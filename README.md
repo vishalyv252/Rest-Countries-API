@@ -23,4 +23,5 @@ For Tailwind, I used it for styling the layout of the web app along with mobile 
 ![searching-the-country](https://github.com/vishalyv252/Rest-Countries-API/assets/105093020/2cf66075-1b71-41e4-8196-836d26233032)
 
 5). Mobile View:
+
 ![mobile-view](https://github.com/vishalyv252/Rest-Countries-API/assets/105093020/a35b3c9f-63ed-4f2f-be8b-58bd29f558af)
